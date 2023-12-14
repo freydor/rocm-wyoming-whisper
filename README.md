@@ -1,3 +1,5 @@
+[![Docker](https://github.com/freydor/rocm-wyoming-whisper/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/freydor/rocm-wyoming-whisper/actions/workflows/docker-publish.yml)
+
 # rocm-wyoming-whisper
 
 A docker image and a few lines of python to use OpenAI whisper with Rhasspy and/or Home Assistant on AMD GPUs with ROCm.
